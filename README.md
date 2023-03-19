@@ -1,3 +1,11 @@
+Para construir esse formulário, usei a biblioteca formik para lidar com o gerenciamento e validação do formulário e a biblioteca react-input-mask para aplicar a máscara no campo do telefone. Também utilizei yup para esquema de validação.
+
+Oritentações:
+Primeiro Instale as as dependências necessárias:
+npm install formik yup react-input-mask
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
